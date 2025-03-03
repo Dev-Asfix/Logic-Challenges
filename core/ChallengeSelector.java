@@ -50,8 +50,9 @@ public class ChallengeSelector {
 
     private int getValidInput() {
         while (true) {
+            System.out.println();
             System.out.print(ConsoleColors.BOLD + ConsoleColors.PURPLE +
-                    "✏️  Introduce el número de tu selección: " + ConsoleColors.RESET);
+                    "💱  Introduce el número de tu selección: " + ConsoleColors.RESET);
             try {
                 return scanner.nextInt();
             } catch (InputMismatchException e) {

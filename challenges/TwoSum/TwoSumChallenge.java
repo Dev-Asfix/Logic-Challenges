@@ -13,7 +13,7 @@ public class TwoSumChallenge extends BaseChallenge {
 
     @Override
     public void execute() {
-        printHeader("\uD83E\uDDE9  Two Sum Challenge");
+        printHeader("\uD83E\uDDE9  Two Sum Challenge ");
 
         // Paso 1: Definir el tamaño del array
         LoadingUtils.showLoading("📏 Configurando tamaño del array...");

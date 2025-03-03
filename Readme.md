@@ -31,6 +31,14 @@
 Este repositorio contiene soluciones optimizadas para tres desafíos comunes de algoritmos:
 El código sigue principios sólidos de **Programación Orientada a Objetos (POO)**, asegurando un diseño limpio, escalable y mantenible:
 
+ ### 🔹 Características principales:
+
+✅ Sistema basado en POO (Programación Orientada a Objetos) para una estructura clara y escalable.  
+✅ Menú dinámico que permite seleccionar y ejecutar retos fácilmente.  
+✅ Modularidad total: Se pueden agregar más desafíos sin alterar la lógica central.  
+✅ Ejecución rápida y eficiente, ideal para practicar algoritmos y mejorar habilidades en Java.
+
+### 🔹 Retos implementados:
 1. **Palindrome Number** (Número Palíndromo)
 2. **Two Sum** (Dos Números que Suman un Objetivo)
 3. **Two Sum II** (Dos Números que Suman un Objetivo - Array Ordenado)

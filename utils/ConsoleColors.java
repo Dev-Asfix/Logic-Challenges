@@ -12,7 +12,6 @@ public class ConsoleColors {
     // Nuevo color Magenta
     public static final String MAGENTA = "\033[0;95m";
 
-    public static final String BOLD = "\033[1m";
 
     // Estilos adicionales si los necesitas
     public static final String UNDERLINE = "\033[4m";

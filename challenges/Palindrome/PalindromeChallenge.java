@@ -14,7 +14,7 @@ public class PalindromeChallenge extends BaseChallenge {
 
     @Override
     public void execute() {
-        printHeader("🔢 Palindrome Number Challenge");
+        printHeader("🔢 Palindrome Number Challenge ");
 
         // Obtener el número con validación
         int x = validator.getValidInteger(ConsoleColors.CYAN + "🔹 Ingrese un número entero: " + ConsoleColors.RESET);

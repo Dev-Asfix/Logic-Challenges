@@ -5,9 +5,13 @@
 
 <p align="center">
     <!-- Insignias para Discord-Message con color morado -->
-    <a href="https://github.com/Dev-Asfix/Discord-Message?tab=License-1-ov-file"><img src="https://img.shields.io/github/license/Dev-Asfix/Foro-Hub?style=for-the-badge" alt="License"></a>
-    <a href="https://github.com/Dev-Asfix/Discord-Message/issues"><img src="https://img.shields.io/github/issues/Dev-Asfix/Discord-Message?style=for-the-badge&color=8A2BE2" alt="Open Issues"></a>
-    <a href="https://github.com/Dev-Asfix/Discord-Message/graphs/contributors"><img src="https://img.shields.io/github/contributors/Dev-Asfix/Discord-Message?style=for-the-badge&color=8A2BE2" alt="Contributors"></a>
+    <a href="https://github.com/Dev-Asfix/Logic-Challenges?tab=License-1-ov-file"><img src="https://img.shields.io/github/license/Dev-Asfix/Foro-Hub?style=for-the-badge" alt="License"></a>
+        <a href="https://github.com/Dev-Asfix/Logic-Challenges/issues">
+        <img src="https://img.shields.io/github/issues/Dev-Asfix/Logic-Challenges?style=for-the-badge&color=8A2BE2" alt="Open Issues">
+    </a>
+    <a href="https://github.com/Dev-Asfix/Logic-Challenges/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/Dev-Asfix/Logic-Challenges?style=for-the-badge&color=8A2BE2" alt="Contributors">
+    </a>
 </p>
 </div>
 

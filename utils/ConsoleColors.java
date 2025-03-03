@@ -9,4 +9,6 @@ public class ConsoleColors {
     public static final String RED = "\u001B[31m";
     public static final String BOLD = "\u001B[1m";
     public static final String BLUE = "\u001B[34m";
+    // Nuevo color Magenta
+    public static final String MAGENTA = "\033[0;95m";
 }

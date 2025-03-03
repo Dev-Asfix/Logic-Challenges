@@ -33,10 +33,10 @@ El código sigue principios sólidos de **Programación Orientada a Objetos (POO
 
  ### 🔹 Características principales:
 
-✅ Sistema basado en POO (Programación Orientada a Objetos) para una estructura clara y escalable.  
-✅ Menú dinámico que permite seleccionar y ejecutar retos fácilmente.  
-✅ Modularidad total: Se pueden agregar más desafíos sin alterar la lógica central.  
-✅ Ejecución rápida y eficiente, ideal para practicar algoritmos y mejorar habilidades en Java.
+💠 Sistema basado en POO (Programación Orientada a Objetos) para una estructura clara y escalable.  
+💠 Menú dinámico que permite seleccionar y ejecutar retos fácilmente.  
+💠 Modularidad total: Se pueden agregar más desafíos sin alterar la lógica central.  
+💠 Ejecución rápida y eficiente, ideal para practicar algoritmos y mejorar habilidades en Java.
 
 ### 🔹 Retos implementados:
 1. **Palindrome Number** (Número Palíndromo)
@@ -170,8 +170,11 @@ public class TwoSumIISolver {
  ┃ ┣ 📜 TwoSumIIChallenge.java    # Clase principal del reto Two Sum II
  ┃ ┗ 📜 TwoSumIISolver.java       # Algoritmo optimizado con dos punteros
 📦 core
- ┗ 📜 ChallengeRunner.java        # Orquestador de los retos
+ ┣ 📜 BaseChallenge.java          # Es la Abstract Class
+ ┣ 📜 Challenge.java              # Interfaz
+ ┗ 📜 ChallengeSelector.java       # Aqui podemos añadir mas retos
 📦 utils
+ ┣ 📂 validation_errors           # Exceptions
  ┣ 📜 ConsoleColors.java          # Utilidad para agregar colores en la consola
  ┣ 📜 InputValidator.java         # Validación de entradas del usuario
  ┗ 📜 LoadingUtils.java           # Animaciones de carga para una mejor experiencia
